@@ -108,7 +108,7 @@ const FooterSection = () => {
                     Email Us
                   </p>
                   <p className="text-base text-black">
-                    akashbroadbandpbr@gmail.com
+                    sudamatelecompvtltd@gmail.com
                   </p>
                 </div>
               </div>
